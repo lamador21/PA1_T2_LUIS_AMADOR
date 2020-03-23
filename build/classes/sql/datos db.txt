@@ -1,0 +1,22 @@
+-- Insert de 5 registros a la tabla VEHICULOS de la  uth --
+
+INSERT INTO uth.VEHICULOS (PLACA, MODELO, MARCA, ANIO, MOTOR, PRECIO, NOMBRE, DESCRIPCION, IMAGEN) 
+VALUES 
+('PDU39', 'V4', 'TOYOTA', 2017, '1.8', 80000, 'FAST 1', '<html>auto traido de USA, <P><html>con 130 mil millas.<P>', '/Imagen/FAST 1.jpg');
+
+INSERT INTO uth.VEHICULOS (PLACA, MODELO, MARCA, ANIO, MOTOR, PRECIO, NOMBRE, DESCRIPCION, IMAGEN) 
+VALUES 
+('XLL20', 'F150', 'FORD', 2017, '4.0', 600000, 'FAST 2', '<html>auto comprado de agencia, <P><html>usado con 30 mil millas.<P>', '/Imagen/FAST 2.jpg');
+
+INSERT INTO uth.VEHICULOS (PLACA, MODELO, MARCA, ANIO, MOTOR, PRECIO, NOMBRE, DESCRIPCION, IMAGEN) 
+VALUES 
+('LAA21', 'CRUZE', 'CHEVROLET', 2016, '2.0', 60000, 'FAST 3', '<html>Vehículo con detalles <P><html>uso 50 mil millas motor nitido.<P>', '/Imagen/FAST 3.jpg');
+
+INSERT INTO uth.VEHICULOS (PLACA, MODELO, MARCA, ANIO, MOTOR, PRECIO, NOMBRE, DESCRIPCION, IMAGEN) 
+VALUES 
+('JDK9', 'COROLLA', 'TOYOTA', 2019, '1.8', 350000, 'FAST 4', '<html>auto nuevo de agencia <P><html>0 millas .<P>', '/Imagen/FAST 4.jpg');
+
+INSERT INTO uth.VEHICULOS (PLACA, MODELO, MARCA, ANIO, MOTOR, PRECIO, NOMBRE, DESCRIPCION, IMAGEN) 
+VALUES 
+('LLA43 ', 'SUPRA', 'TOYOTA', 2019, '3.0', 150000, 'FAST 5', '<html>auto nuevo  <P><html>0 millas de uso.<P>', '/Imagen/FAST 5.jpg');
+
